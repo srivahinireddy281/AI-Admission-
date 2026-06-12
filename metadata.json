@@ -1,0 +1,6 @@
+{
+  "name": "AI-Enhanced Admission Management System",
+  "description": "A comprehensive admissions management and automated applicant evaluation platform utilizing Google Gemini API and a mathematical Logistic Regression model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
